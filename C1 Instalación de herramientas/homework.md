@@ -20,7 +20,11 @@ Recuerda que debes descargar la versión **LTS** de Node.JS, ya que la versión 
 
 ### **📍 GIT**
 
-Recuerda que si tu sistema operativo en **Linux** ya tienes GIT instalado por defecto. Si tu sistema operativo es **Windows** puedes descargarlo en el siguiente link:
+Recuerda que si tu sistema operativo en Linux
+
+
+
+ya tienes GIT instalado por defecto. Si tu sistema operativo es **Windows** puedes descargarlo en el siguiente link:
 
 [**LINK DE DESCARGA**](https://gitforwindows.org/)
 
